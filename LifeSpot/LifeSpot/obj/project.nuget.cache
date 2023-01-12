@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "cRzNl0NhohYDZwybLOn/4kRB2+mxr5fpZrd5kF0ca8jbmIobAZhWb/O+aFVmDKbOQ1zOeskf+WDvo3xFTdCLMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dzh\\source\\repos\\LifeSpot\\LifeSpot\\LifeSpot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dzh\\.nuget\\packages\\microsoft.typescript.msbuild\\4.9.4\\microsoft.typescript.msbuild.4.9.4.nupkg.sha512"
+  ],
+  "logs": []
+}
